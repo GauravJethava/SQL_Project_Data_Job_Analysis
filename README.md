@@ -295,7 +295,7 @@ Aspiring Data Analyst passionate about transforming data into actionable insight
 ### Connect with Me
 
 - GitHub: https://github.com/GauravJethava
-- LinkedIn: *(Add your LinkedIn Profile URL)*
+- LinkedIn: https://www.linkedin.com/in/gaurav-jethava/
 
 ---
 
