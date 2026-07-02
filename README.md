@@ -267,10 +267,6 @@ SQL_Project_Data_Job_Analysis/
 │   ├── 4_top_paying_skills.sql
 │   └── 5_optimal_skills.sql
 │
-├── assets/
-│   ├── images/
-│   └── charts/
-│
 └── README.md
 ```
 
