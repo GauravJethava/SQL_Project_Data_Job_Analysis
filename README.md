@@ -260,7 +260,7 @@ Overall, this project demonstrates how SQL can transform raw job posting data in
 ```
 SQL_Project_Data_Job_Analysis/
 │
-├── SQL Queries/
+├── Project_SQL /
 │   ├── 1_top_paying_jobs.sql
 │   ├── 2_top_paying_job_skills.sql
 │   ├── 3_top_demanded_skills.sql
